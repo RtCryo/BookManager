@@ -1,0 +1,6 @@
+com\bookmanager\service\BookService.class
+com\bookmanager\model\Book.class
+com\bookmanager\dao\BookDao.class
+com\bookmanager\dao\BookDaoImpl.class
+com\bookmanager\controller\BookController.class
+com\bookmanager\service\BookServiceImpl.class
